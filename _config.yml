@@ -8,11 +8,11 @@ version: 3
 # Personal info
 name: Roel Duijsings
 title: Student MSc Artificial Intelligence @ Radboud University
-email: roel.duijsings@hotmail.com
+#email: roel.duijsings@hotmail.com
 # email_title: Email (Email title override)
-phone: on request
+#phone: on request
 # phone_title: Phone (Phone title override)
-website: rroell.github.io
+#website: rroell.github.io
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -23,9 +23,9 @@ darkmode: false
 github_username: rroell
 #stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-facebook_username: roel.duijsings
+#facebook_username: roel.duijsings
 # flickr_username: jekyll
-instagram_username: roelduijsings
+#instagram_username: roelduijsings
 linkedin_username: roelduijsings
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -36,8 +36,11 @@ linkedin_username: roelduijsings
 # Additional icon links
 additional_links:
   - title: MSc Artificial Intelligence
-    icon: fab fa-solid fa-github
+    icon: fab fa-solid fa-graduation
     url: https://www.ru.nl/en/education/masters/artificial-intelligence-intelligent-technology
+  - title: Email
+    icon: fab fa-solid fa-envelope
+    url: mailto:roel.duijsings@hotmail.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
