@@ -55,6 +55,10 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profielfoto.jpg
 about_content: | # this will include new lines to allow paragraphs
+  Born and raised in Hulsberg, Limburg where football and cycling where a big part of my youth. 
+  From young age I was already interested in computers and I was that guy that was asked:
+  <mark>Hey, can you fix this?</mark>
+
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
