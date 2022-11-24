@@ -40,7 +40,7 @@ additional_links:
     url: https://www.ru.nl/en/education/masters/artificial-intelligence-intelligent-technology
   - title: Email
     icon: fab fa-solid fa-envelope
-    url: mailto:roel.duijsings@hotmail.com
+    url: 'mailto:roel.duijsings@hotmail.com'
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
